@@ -17,4 +17,4 @@ By using the equation above, and using a **STM32 micro-controller**, I wrote a p
 
 The final result:
 
-<img src="images/IMG_4942.jpg" width="450" height="400">
+<img src="images/IMG_4942.jpg" width="360" height="320">
